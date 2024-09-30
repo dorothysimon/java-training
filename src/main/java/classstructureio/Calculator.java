@@ -1,4 +1,4 @@
-package practice;
+package classstructureio;
 
 import java.util.Scanner;
 
